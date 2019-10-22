@@ -1,6 +1,6 @@
 # Selection-sort
-##AIM:To take an array from use and use selection sort to sort the elements.
-##ALGORITHM:
+## AIM:To take an array from use and use selection sort to sort the elements.
+## ALGORITHM:
 1.Start.
 2.Declare variables.
 3.Take array size and elemts from user and store it in variables.
